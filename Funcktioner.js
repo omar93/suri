@@ -10,6 +10,16 @@
  * Funktioner
  */
 
+function startProgram() 
+{
+  let playerNameList = ["suri", "semir"]
+
+  let i = 0;
+
+  
+}
+
+startProgram()
 
 
 /**

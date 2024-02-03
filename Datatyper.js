@@ -36,8 +36,7 @@ let player1 = {
   name: 'Suri',
   friend: polishName,
   health: 100,
-  alive: isPlayerDead,
-  takeDamage: removeHealth
+  alive: isPlayerDead
 }
 
 
